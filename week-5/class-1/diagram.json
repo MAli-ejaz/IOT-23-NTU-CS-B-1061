@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "azharfaiz",
+  "author": "ali ejaz",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": -72.1, "left": 23.8, "attrs": {} },
